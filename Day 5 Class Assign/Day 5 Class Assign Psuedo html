@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+	<html lang="en">
+	<head>
+		<meta charset = "UTF-8">
+
+		<title>Psuedo Class</title>
+
+		<link rel="stylesheet" type="text/css" href="psuedoclass.css">
+
+	<a href="blank">Click Here!</a>
+	
